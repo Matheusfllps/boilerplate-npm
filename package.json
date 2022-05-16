@@ -1,6 +1,6 @@
 {
-	"autor": " matheus felipe",
-	"nome": " boilerPlate"
+	"autor": " Matheus Felipe",
+	"nome": " boilerPlate",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
